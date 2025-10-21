@@ -1,2 +1,2 @@
 # Repo-demo
-Learning github from tutorial
+Learning github from tutorial.
